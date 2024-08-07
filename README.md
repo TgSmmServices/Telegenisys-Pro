@@ -11,7 +11,7 @@
 <a href="https://github.com/TgSmmServices/Telegenisys-Pro/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/TgSmmServices/Telegenisys-Pro?color=2b9348"></a>
 <a href="https://github.com/TgSmmServices/Telegenisys-Pro/blob/master/"><img src="https://img.shields.io/github/license/TgSmmServices/Telegenisys-Pro?color=2b9348" alt="License Badge"/></a>
 <br>
-Telegenisys is a most advance and powerful python script for scarpe telegram members from others groups and add them to your group.
+Telegenisys Pro is a most advance and powerful python script for scarpe telegram members from others groups and add them to your group.
 
 <div align="center">
 <br>
@@ -19,16 +19,31 @@ Telegenisys is a most advance and powerful python script for scarpe telegram mem
 </div>
 <div align="left">
 
-# Version 1.0
+# Telegenisys Pro version 2.0.0
 
-Telegenisys - Telegram Tools, Packs, Bots, Info, Administration, Scrapers, Adders, and many more..
+Looking for a hassle-free way to add new members to your Telegram groups or channels? Look no further than Telegenisys Pro - the ultimate solution for all your member adding needs!
+
+With an intuitive, user-friendly interface and a suite of powerful features, Telegenisys Pro makes it easier than ever to add new members to your private groups or channels. Plus, with our upgraded ban protection and super safe mode, you can rest assured that your accounts will stay safe and secure.
+
+But that's not all - Telegenisys Pro also includes a powerful scraping tool that lets you quickly and easily scrap members from even the largest groups. And with unlimited messaging, API and number rotation, and full support and tips and tricks for adding members, you'll have everything you need to grow your Telegram community.
+
+So why wait? Contact us today to get started with Telegenisys Pro - the ultimate member adding tool for Telegram!
+
+For Any Query Please Contact Us Through Following Ways ~~
+
+- Telegram - [https://telegram.me/TgSmmServices](https://telegram.me/TgSmmServices)
+- Email - [tgsmmservices@duck.com](mailto:tgsmmservices@duck.com)
+- Telegram Group - [https://telegram.me/TgSmmServicesChat](https://telegram.me/TgSmmServicesChat)
+
+## Video Tutorial ~~
+[https://youtu.be/E433onN_vgI](https://youtu.be/E433onN_vgI)
 
 # Update Features
 
 - Fixed bug with scraping. You can now scrape from public groups of any size.
 - Fixed bug in multiple adder. You can now start using the bulk adder again.
 - Update Memebers Adder To Make It Fast & Safe.
-# Features Of Telegenisys
+# Features Of Telegenisys Pro
 
 * Add Members In Bulk [by username]
 * Scrapes and adds to public groups
@@ -42,11 +57,7 @@ Telegenisys - Telegram Tools, Packs, Bots, Info, Administration, Scrapers, Adder
 * Filters banned accounts and remove them, making things easy
 * It can also store unlimited accounts for adding purposes
 * Adding scripts launches automatically based on number of accounts to use
-
-# Note
-
-Sometimes users may not get added at all, this may be because the account is probably limited or you entered a channel. Try with another account. 
-
+* 
 # Buy me a coffee
 
 * Ethereum [ETH] - 0xD8836f203D629554306c5cf9eA80848d23085ef1
@@ -55,9 +66,13 @@ Sometimes users may not get added at all, this may be because the account is pro
 
 # Warning
 
-* This tool is unofficial and completely free to use. Do not buy if anyone tries to sell by copying script
+* This tool is unofficial and completely free to use. Do not buy if anyone tries to sell by copying script. Be careful, Telegram can temporary block your account if you misuse this script (This will prevent you from publishing new reports and joining new channels for about 20 hours or completely banning them forever)
  
 # Hire Me
   
 If you wanted me to develop your custom script or software then you can also hire me.
+
+## Legal
+
+This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by Telegram or any of its affiliates or subsidiaries. This is an independent and unofficial software. Use at your own risk.
   </div>
