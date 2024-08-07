@@ -15,7 +15,7 @@ Telegenisys is a most advance and powerful python script for scarpe telegram mem
 
 <div align="center">
 <br>
-<img width="689" alt="image" src="https://github.com/TgSmmServices/Telegenisys-Pro/blob/main/Telegenisys.png">
+<img width="689" alt="image" src="https://github.com/TgSmmServices/Telegenisys-Pro/blob/main/Telegenisys%20Pro.PNG">
 </div>
 <div align="left">
 
