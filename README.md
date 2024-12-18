@@ -19,7 +19,7 @@ Telegenisys Pro is a most advance and powerful python script for scarpe telegram
 </div>
 <div align="left">
 
-# Telegenisys Pro version 2.0.0
+# Telegenisys Pro version 3.0
 
 Looking for a hassle-free way to add new members to your Telegram groups or channels? Look no further than Telegenisys Pro - the ultimate solution for all your member adding needs!
 
@@ -31,12 +31,12 @@ So why wait? Contact us today to get started with Telegenisys Pro - the ultimate
 
 For Any Query Please Contact Us Through Following Ways ~~
 
-- Telegram - [https://telegram.me/TgSmmServices](https://telegram.me/TgSmmServices)
+- Telegram - [https://telegram.me/TgSmmServices](https://t.me/TgSmmServicess)
 - Email - [tgsmmservices@duck.com](mailto:tgsmmservices@duck.com)
-- Telegram Group - [https://telegram.me/TgSmmServicesChat](https://telegram.me/TgSmmServicesChat)
+- Telegram Group - [https://telegram.me/TgSmmServicesChat](https://t.me/TgSmmServicesGroup)
 
 ## Video Tutorial ~~
-[https://youtu.be/E433onN_vgI](https://youtu.be/E433onN_vgI)
+[https://youtu.be/E433onN_vgI](https://youtu.be/XJFhwejoTX0)
 
 # Update Features
 
@@ -64,9 +64,6 @@ For Any Query Please Contact Us Through Following Ways ~~
 * Bitcoin [BTC] - bc1qun6xemzyphuskdgyly028f5mzwdtjm83ffu4k9
 * Solana [SOL] - FGedRvUZk2RxjVhSDGWZSX7Skpx6HVGvZqfGk6gPD8sn
 
-# Warning
-
-* This tool is unofficial and completely free to use. Do not buy if anyone tries to sell by copying script. Be careful, Telegram can temporary block your account if you misuse this script (This will prevent you from publishing new reports and joining new channels for about 20 hours or completely banning them forever)
  
 # Hire Me
   
